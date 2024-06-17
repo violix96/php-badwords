@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    color: rgb(0, 174, 255);
+    font-weight: bold;
+}
+
+h1 {
+    color: yellow;
+    font-weight: bold;
+}
+
+body {
+    background-image: url(https://wallpapercave.com/wp/udUclZY.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.label {
+    color: yellow;
+    font-weight: bold;
+}
